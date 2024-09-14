@@ -23,11 +23,11 @@
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "17513920"
+      "value": "21349146"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "5cc752dd1072f8acf3cd9acfee539473"
+      "value": "63509e8c3bea2a9432a018305abee2fd"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
