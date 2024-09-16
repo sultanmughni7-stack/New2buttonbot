@@ -19,15 +19,15 @@
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
-      "value": "1783239667 7487395721 6464644351"
+      "value": "7487395721 1227678398 1783239667"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "21349146"
+      "value": "28324285"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "63509e8c3bea2a9432a018305abee2fd"
+      "value": "2d1d510dec74d0b8b2da9c733ce0042e"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
